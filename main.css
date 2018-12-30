@@ -1,0 +1,19 @@
+html {
+  background-image: linear-gradient(
+    to left bottom,
+    #474a73,
+    #405f8b,
+    #3175a0,
+    #198cb0,
+    #00a2ba,
+    #2bb2b9,
+    #4fc0b5,
+    #72ceb1,
+    #9ed9b0,
+    #c4e2b6,
+    #e4ecc3,
+    #fff7d6
+  );
+  height: 100%;
+  width: 100%;
+}
